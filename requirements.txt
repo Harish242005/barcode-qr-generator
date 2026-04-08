@@ -1,0 +1,5 @@
+qrcode[pil]
+python-barcode
+pillow
+pandas
+streamlit
