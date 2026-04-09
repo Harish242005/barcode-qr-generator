@@ -22,7 +22,7 @@ OUTPUT_DIR = "output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 st.set_page_config(
-    page_title="Royal QR Image Link Generator",
+    page_title="Elegant QR Link Generator",
     page_icon="👑",
     layout="wide"
 )
