@@ -226,7 +226,7 @@ section[data-testid="stSidebar"] {
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="main-title">👑 Royal QR Image Link Generator</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">👑 Elegant QR Image Link Generator</div>', unsafe_allow_html=True)
 st.markdown(
     '<div class="sub-title">Upload image → create public link → convert link into QR code</div>',
     unsafe_allow_html=True
