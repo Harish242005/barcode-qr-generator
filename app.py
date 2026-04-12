@@ -34,9 +34,9 @@ if "history" not in st.session_state:
 # CLOUDINARY CONFIG
 # =========================
 # Replace these with your own values
-CLOUD_NAME = "dewhqilca"
-API_KEY = "616245617475274"
-API_SECRET = "TgvjxQk_3zrCL6v3G-yszCzQ6lw"
+CLOUD_NAME = ""
+API_KEY = ""
+API_SECRET = ""
 
 cloudinary.config(
     cloud_name=CLOUD_NAME,
